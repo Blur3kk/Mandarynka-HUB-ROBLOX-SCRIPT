@@ -1,4 +1,4 @@
 -- Plants Vs Brainrot
 if game.PlaceId == 127742093697776 then
-    loadstring(game:HttpGet("https://github.com/Blur3kk/Mandarynka-HUB-ROBLOX-SCRIPT/blob/main/PlantsVsBrainrots"))();
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Blur3kk/Mandarynka-HUB-ROBLOX-SCRIPT/refs/heads/main/PlantsVsBrainrots"))();
 end
