@@ -12,7 +12,6 @@ Bro dont try steal this please is a obfuscate dont waste your time (:
 if game.PlaceId == 127742093697776 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Blur3kk/Mandarynka-HUB-ROBLOX-SCRIPT/refs/heads/main/PlantsVsBrainrots"))();
 end
-
-if game.PlaceID == 11653088948 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Blur3kk/Mandarynka-HUB-ROBLOX-SCRIPT/refs/heads/main/jurassic%20blocky"))();
+elseif game.PlaceID == 11653088948 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Blur3kk/Mandarynka-HUB-ROBLOX-SCRIPT/refs/heads/main/jurassic%20blocky"))(); -- jurassic blocky
 end
